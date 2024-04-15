@@ -1,0 +1,18 @@
+body{
+    background:rgb(0, 255, 255);
+}
+
+.heading{
+    width:80%;
+    font-size:30px;
+}
+
+#camera{
+    border:2px solid ;
+    width:350px;
+    height:300px;
+}
+
+#nameOfObject,#accuracy{
+ color: rgb(47, 0, 255);
+}
